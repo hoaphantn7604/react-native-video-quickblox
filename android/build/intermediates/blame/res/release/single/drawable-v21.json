@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

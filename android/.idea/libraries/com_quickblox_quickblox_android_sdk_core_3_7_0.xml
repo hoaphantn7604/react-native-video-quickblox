@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.quickblox:quickblox-android-sdk-core-3.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e5b361fa87fdfdc96218a60151be806bd249c28a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e5b361fa87fdfdc96218a60151be806bd249c28a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

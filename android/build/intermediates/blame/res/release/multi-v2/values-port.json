@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
