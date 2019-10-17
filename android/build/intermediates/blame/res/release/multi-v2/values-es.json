@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml",
+            "outputFile": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml",
             "map": [
                 {
-                    "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/values-es/values-es.xml",
+                    "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/values-es/values-es.xml",
+                    "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -33,10 +33,10 @@
             ]
         },
         {
-            "outputFile": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/values-es/values-es.xml",
+            "outputFile": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/values-es/values-es.xml",
             "map": [
                 {
-                    "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/values-es/values-es.xml",
+                    "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -46,7 +46,7 @@
                     }
                 },
                 {
-                    "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/values-es/values-es.xml",
+                    "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

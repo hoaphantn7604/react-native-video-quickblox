@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
     }
 ]

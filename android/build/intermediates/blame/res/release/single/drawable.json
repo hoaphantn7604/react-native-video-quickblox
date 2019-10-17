@@ -1,170 +1,170 @@
 [
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_vector_test.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/redbox_top_border_background.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/6259e8cf18ec67b4211dddcd6d3c17ac/jetified-react-native-0.60.4/res/drawable/redbox_top_border_background.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/redbox_top_border_background.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/9c58865ece73fd52ce980ac50f0ed5f8/jetified-react-native-0.60.4/res/drawable/redbox_top_border_background.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_btn_check_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_dialog_material_background.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/drawable/notification_tile_bg.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/notification_bg.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/drawable/notification_bg.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_list_divider_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_list_divider_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/drawable/notification_bg_low.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/tooltip_frame_dark.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/tooltip_frame_dark.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/tooltip_frame_light.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/drawable/notification_icon_background.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_clear_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/tooltip_frame_light.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_list_divider_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_list_divider_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/hoaphan/Documents/banvien/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/hoaphan/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/drawable/abc_vector_test.xml"
     }
 ]

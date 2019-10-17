@@ -24,8 +24,16 @@ import com.quickblox.core.request.QBPagedRequestBuilder;
 import com.quickblox.core.result.HttpStatus;
 import com.quickblox.users.QBUsers;
 import com.quickblox.users.model.QBUser;
+import com.quickblox.videochat.webrtc.QBMediaStreamManager;
+import com.quickblox.videochat.webrtc.QBRTCAudioTrack;
+import com.quickblox.videochat.webrtc.QBRTCCameraVideoCapturer;
 import com.quickblox.videochat.webrtc.QBRTCConfig;
 import com.quickblox.videochat.webrtc.QBRTCSession;
+import com.quickblox.videochat.webrtc.view.QBRTCVideoTrack;
+
+import org.webrtc.CameraVideoCapturer;
+import org.webrtc.CameraVideoCapturer.CameraSwitchHandler;
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -231,4 +239,36 @@ public class RNQuickbloxModule extends ReactContextBaseJavaModule {
         params.putString("", "");
         reactApplicationContext.getJSModule(DeviceEventManagerModule.RCTDeviceEventEmitter.class).emit(SESSION_DID_CLOSE, params);
     }
+
+    @ReactMethod
+    public void setVideoEnabled(final Boolean status) {
+        QBRTCVideoTrack localVideoTrack = QuickbloxHandler.getInstance().getSession().getMediaStreamManager().getLocalVideoTrack();
+        localVideoTrack.setEnabled(status);
+    }
+
+    @ReactMethod
+    public void setAudioEnabled(final Boolean status) {
+        QBRTCAudioTrack localAudioTrack =  QuickbloxHandler.getInstance().getSession().getMediaStreamManager().getLocalAudioTrack();
+        localAudioTrack.setEnabled(status);
+    }
+
+    @ReactMethod
+    public void switchCamera() {
+        QBRTCCameraVideoCapturer videoCapturer = (QBRTCCameraVideoCapturer) (QuickbloxHandler.getInstance().getSession().getMediaStreamManager().getVideoCapturer());
+
+        CameraSwitchHandler cameraSwitchHandler = new CameraSwitchHandler() {
+            @Override
+            public void onCameraSwitchDone(boolean b) {
+
+            }
+
+            @Override
+            public void onCameraSwitchError(String s) {
+
+            }
+        };
+
+        videoCapturer.switchCamera(cameraSwitchHandler);
+    }
+
 }
