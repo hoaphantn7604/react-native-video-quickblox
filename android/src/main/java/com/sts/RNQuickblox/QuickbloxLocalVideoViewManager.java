@@ -1,5 +1,6 @@
 package com.sts.RNQuickblox;
 
+import android.graphics.Color;
 import android.util.Log;
 
 import com.quickblox.videochat.webrtc.QBMediaStreamManager;
@@ -19,10 +20,12 @@ public class QuickbloxLocalVideoViewManager extends QuickbloxVideoViewManager {
 
     public QuickbloxLocalVideoViewManager() {
         QuickbloxHandler.getInstance().setLocalViewManager(this);
+
     }
 
     @Override
     protected QBRTCVideoTrack getVideoTrack() {
+
         if (QuickbloxHandler.getInstance().getSession() != null) {
             QBRTCSession session = QuickbloxHandler.getInstance().getSession();
             QBMediaStreamManager mediaStreamManager = session.getMediaStreamManager();

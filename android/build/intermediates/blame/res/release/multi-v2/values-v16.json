@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/values-v16/values-v16.xml",
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/values-v16/values-v16.xml",
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,10 +35,10 @@
             ]
         },
         {
-            "outputFile": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/values-v16/values-v16.xml",
+            "outputFile": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/values-v16/values-v16.xml",
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -48,7 +48,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/values-v16/values-v16.xml",
+                    "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

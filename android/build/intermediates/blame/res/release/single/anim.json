@@ -1,74 +1,74 @@
 [
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/6259e8cf18ec67b4211dddcd6d3c17ac/jetified-react-native-0.60.4/res/anim/catalyst_push_up_out.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/6259e8cf18ec67b4211dddcd6d3c17ac/jetified-react-native-0.60.4/res/anim/catalyst_slide_up.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/1d0be53ce2a14f4a8e727b0d65780ee2/jetified-react-native-0.60.4/res/anim/catalyst_push_up_out.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/6259e8cf18ec67b4211dddcd6d3c17ac/jetified-react-native-0.60.4/res/anim/catalyst_slide_down.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/6259e8cf18ec67b4211dddcd6d3c17ac/jetified-react-native-0.60.4/res/anim/catalyst_push_up_in.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/1d0be53ce2a14f4a8e727b0d65780ee2/jetified-react-native-0.60.4/res/anim/catalyst_fade_out.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/6259e8cf18ec67b4211dddcd6d3c17ac/jetified-react-native-0.60.4/res/anim/catalyst_fade_in.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/6259e8cf18ec67b4211dddcd6d3c17ac/jetified-react-native-0.60.4/res/anim/catalyst_fade_out.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/1d0be53ce2a14f4a8e727b0d65780ee2/jetified-react-native-0.60.4/res/anim/catalyst_slide_up.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/1d0be53ce2a14f4a8e727b0d65780ee2/jetified-react-native-0.60.4/res/anim/catalyst_push_up_in.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/1d0be53ce2a14f4a8e727b0d65780ee2/jetified-react-native-0.60.4/res/anim/catalyst_fade_in.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/1d0be53ce2a14f4a8e727b0d65780ee2/jetified-react-native-0.60.4/res/anim/catalyst_slide_down.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
     }
 ]

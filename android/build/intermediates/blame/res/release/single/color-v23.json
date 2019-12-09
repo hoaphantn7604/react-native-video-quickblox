@@ -1,38 +1,38 @@
 [
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_btn_colored_text_material.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_default.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_edittext.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/vincent/Documents/HOA PHAN/REACT NATIVE/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
-        "source": "/Users/vincent/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_tint_spinner.xml"
+        "merged": "/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/655b7c8786b7af23d1aaa5cf8df8e39c/appcompat-1.0.2/res/color-v23/abc_btn_colored_text_material.xml"
     }
 ]

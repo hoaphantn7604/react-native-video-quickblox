@@ -1,6 +1,7 @@
 package com.sts.RNQuickblox;
 
 import android.annotation.SuppressLint;
+import android.graphics.Color;
 import android.view.ViewGroup;
 
 import com.facebook.react.bridge.ReactContext;
@@ -11,6 +12,7 @@ import com.quickblox.videochat.webrtc.view.QBRTCVideoTrack;
 
 import org.webrtc.RendererCommon;
 import org.webrtc.VideoRenderer;
+import org.webrtc.VideoRenderer.Callbacks;
 
 
 public class QuickbloxVideoViewManager extends ViewGroupManager<ViewGroup> {
@@ -40,9 +42,9 @@ public class QuickbloxVideoViewManager extends ViewGroupManager<ViewGroup> {
         this.reactContext = reactContext;
 
         viewGroup = new QuickbloxVideoViewGroup(reactContext);
-        videoView = new QBRTCSurfaceView(reactContext);
-
-//        videoView.setZOrderMediaOverlay(true);
+        // videoView = new QBRTCSurfaceView(reactContext);
+        videoView = new BVQBRTCSurfaceView(reactContext);
+        //  videoView.setZOrderMediaOverlay(true);
         videoView.setScalingType(RendererCommon.ScalingType.SCALE_ASPECT_FILL);
 
         QBRTCVideoTrack videoTrack = getVideoTrack();
@@ -50,7 +52,6 @@ public class QuickbloxVideoViewManager extends ViewGroupManager<ViewGroup> {
             this.renderVideoTrack(videoTrack);
         }
         viewGroup.addView(videoView);
-
         return viewGroup;
     }
 

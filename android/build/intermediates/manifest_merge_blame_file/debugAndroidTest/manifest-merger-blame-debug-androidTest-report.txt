@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sts.RNQuickblox.test" >
+4
+5    <uses-sdk
+5-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:11:5-15:74
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:13:22-53
+13        android:label="Tests for com.sts.RNQuickblox.test"
+13-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:15:22-72
+14        android:targetPackage="com.sts.RNQuickblox.test" />
+14-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:12:22-70
+15    <!-- You should set 'versionCode' and 'versionName' in QBSettings class. -->
+16    <!-- It's library project. It doesn't need any manifest settings. -->
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[com.quickblox:quickblox-android-sdk-chat:3.5.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/65a3150799c9f696c5606eed697bac22/quickblox-android-sdk-chat-3.5.0/AndroidManifest.xml:11:5-67
+17-->[com.quickblox:quickblox-android-sdk-chat:3.5.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/65a3150799c9f696c5606eed697bac22/quickblox-android-sdk-chat-3.5.0/AndroidManifest.xml:11:22-64
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.quickblox:quickblox-android-sdk-chat:3.5.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/65a3150799c9f696c5606eed697bac22/quickblox-android-sdk-chat-3.5.0/AndroidManifest.xml:12:5-79
+18-->[com.quickblox:quickblox-android-sdk-chat:3.5.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/65a3150799c9f696c5606eed697bac22/quickblox-android-sdk-chat-3.5.0/AndroidManifest.xml:12:22-76
+19
+20    <application
+20-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:7:5-9:19
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/3a8a8738d6f72569a2b222cf600301f3/core-1.0.1/AndroidManifest.xml:22:18-86
+22        android:debuggable="true" >
+22-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:7:18-43
+23        <uses-library android:name="android.test.runner" />
+23-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:8:9-60
+23-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger56552293768829044.xml:8:23-57
+24    </application>
+25
+26</manifest>
