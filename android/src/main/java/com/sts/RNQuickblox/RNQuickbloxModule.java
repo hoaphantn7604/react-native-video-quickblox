@@ -1,5 +1,9 @@
 package com.sts.RNQuickblox;
 
+import android.app.NotificationManager;
+import android.app.Service;
+import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 
@@ -16,6 +20,9 @@ import com.facebook.react.modules.core.DeviceEventManagerModule;
 import com.google.gson.Gson;
 import com.quickblox.auth.QBAuth;
 import com.quickblox.auth.session.QBSession;
+import com.quickblox.auth.session.QBSessionListenerImpl;
+import com.quickblox.auth.session.QBSessionManager;
+import com.quickblox.auth.session.QBSessionParameters;
 import com.quickblox.auth.session.QBSettings;
 import com.quickblox.chat.QBChatService;
 import com.quickblox.core.QBEntityCallback;
@@ -31,6 +38,8 @@ import com.quickblox.videochat.webrtc.QBRTCConfig;
 import com.quickblox.videochat.webrtc.QBRTCSession;
 import com.quickblox.videochat.webrtc.view.QBRTCVideoTrack;
 
+import org.jivesoftware.smack.ConnectionListener;
+import org.jivesoftware.smack.XMPPConnection;
 import org.webrtc.CameraVideoCapturer;
 import org.webrtc.CameraVideoCapturer.CameraSwitchHandler;
 
@@ -44,7 +53,7 @@ import javax.annotation.Nullable;
 
 
 public class RNQuickbloxModule extends ReactContextBaseJavaModule {
-    private static final String TAG = RNQuickbloxModule.class.getSimpleName();
+    private static final String TAG = "ahihi - " + RNQuickbloxModule.class.getSimpleName();
 
     private static final String DID_RECEIVE_CALL_SESSION = "DID_RECEIVE_CALL_SESSION";
     private static final String USER_ACCEPT_CALL = "USER_ACCEPT_CALL";
@@ -155,6 +164,7 @@ public class RNQuickbloxModule extends ReactContextBaseJavaModule {
 
     private void login(String userId, String password, final Callback callback) {
         final QBUser user = new QBUser(userId, password);
+
         QBAuth.createSession(user).performAsync(new QBEntityCallback<QBSession>() {
             @Override
             public void onSuccess(QBSession qbSession, Bundle bundle) {
@@ -163,16 +173,59 @@ public class RNQuickbloxModule extends ReactContextBaseJavaModule {
                 chatService.login(user, new QBEntityCallback() {
                     @Override
                     public void onSuccess(Object o, Bundle bundle) {
+
                         QuickbloxHandler.getInstance().setCurrentUser(user);
                         QuickbloxHandler.getInstance().init();
                         callback.invoke(user.getId());
+                        Log.d(TAG, "onSuccess: now! you can call");
+
                     }
 
                     @Override
                     public void onError(QBResponseException e) {
                         callback.invoke(e.getMessage());
+                        Log.d(TAG, e.getMessage());
                     }
                 });
+
+//
+//                chatService.addConnectionListener(new ConnectionListener() {
+//                    @Override
+//                    public void connected(XMPPConnection xmppConnection) {
+//                        Log.d(TAG, "service connected: ");
+//                    }
+//
+//                    @Override
+//                    public void authenticated(XMPPConnection xmppConnection, boolean b) {
+//                        Log.d(TAG, "service authenticated: ");
+//                    }
+//
+//                    @Override
+//                    public void connectionClosed() {
+//                        Log.d(TAG, "service connectionClosed: ");
+//                    }
+//
+//                    @Override
+//                    public void connectionClosedOnError(Exception e) {
+//                        Log.d(TAG, "service connectionClosedOnError: ");
+//                    }
+//
+//                    @Override
+//                    public void reconnectionSuccessful() {
+//                        Log.d(TAG, "service reconnectionSuccessful: ");
+//                    }
+//
+//                    @Override
+//                    public void reconnectingIn(int i) {
+//                        Log.d(TAG, "service reconnectingIn: ");
+//                    }
+//
+//                    @Override
+//                    public void reconnectionFailed(Exception e) {
+//                        Log.d(TAG, "service reconnectionFailed: ");
+//                    }
+//                });
+
             }
 
             @Override
@@ -248,7 +301,7 @@ public class RNQuickbloxModule extends ReactContextBaseJavaModule {
 
     @ReactMethod
     public void setAudioEnabled(final Boolean status) {
-        QBRTCAudioTrack localAudioTrack =  QuickbloxHandler.getInstance().getSession().getMediaStreamManager().getLocalAudioTrack();
+        QBRTCAudioTrack localAudioTrack = QuickbloxHandler.getInstance().getSession().getMediaStreamManager().getLocalAudioTrack();
         localAudioTrack.setEnabled(status);
     }
 

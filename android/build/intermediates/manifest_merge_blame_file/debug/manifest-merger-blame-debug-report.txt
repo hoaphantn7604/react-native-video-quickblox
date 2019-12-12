@@ -10,4 +10,7 @@
 9        android:targetSdkVersion="28" />
 9-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/src/main/AndroidManifest.xml
 10
-11</manifest>
+11    <application />
+11-->/Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/src/main/AndroidManifest.xml:4:5-32
+12
+13</manifest>

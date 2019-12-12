@@ -21,6 +21,8 @@ INJECTED from /Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_mo
 		INJECTED from /Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/src/main/AndroidManifest.xml:4:5-32
 uses-sdk
 INJECTED from /Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/apple/Projects/React_Native/BanVienCorp/opla-mobile/node_modules/react-native-video-quickblox/android/src/main/AndroidManifest.xml

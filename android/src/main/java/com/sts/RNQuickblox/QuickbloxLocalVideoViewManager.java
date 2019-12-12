@@ -2,7 +2,9 @@ package com.sts.RNQuickblox;
 
 import android.graphics.Color;
 import android.util.Log;
+import android.view.ViewGroup;
 
+import com.facebook.react.uimanager.ThemedReactContext;
 import com.quickblox.videochat.webrtc.QBMediaStreamManager;
 import com.quickblox.videochat.webrtc.QBRTCCameraVideoCapturer;
 import com.quickblox.videochat.webrtc.QBRTCSession;
@@ -20,7 +22,13 @@ public class QuickbloxLocalVideoViewManager extends QuickbloxVideoViewManager {
 
     public QuickbloxLocalVideoViewManager() {
         QuickbloxHandler.getInstance().setLocalViewManager(this);
+    }
 
+    @Override
+    protected ViewGroup createViewInstance(ThemedReactContext reactContext) {
+        super.createViewInstance(reactContext);
+        this.videoView.setMirror(true);
+        return this.viewGroup;
     }
 
     @Override
@@ -34,7 +42,7 @@ public class QuickbloxLocalVideoViewManager extends QuickbloxVideoViewManager {
                     QBRTCCameraVideoCapturer videoCapturer = (QBRTCCameraVideoCapturer) (mediaStreamManager.getVideoCapturer());
                     videoCapturer.changeCaptureFormat(768, 1024, 30);
                     return mediaStreamManager.getLocalVideoTrack();
-                }catch (Exception e) {
+                } catch (Exception e) {
                     Log.i(TAG, "Log video track: " + e);
                 }
 

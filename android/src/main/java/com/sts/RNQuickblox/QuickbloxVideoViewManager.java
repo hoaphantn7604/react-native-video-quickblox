@@ -42,8 +42,7 @@ public class QuickbloxVideoViewManager extends ViewGroupManager<ViewGroup> {
         this.reactContext = reactContext;
 
         viewGroup = new QuickbloxVideoViewGroup(reactContext);
-        // videoView = new QBRTCSurfaceView(reactContext);
-        videoView = new BVQBRTCSurfaceView(reactContext);
+        videoView = new QBRTCSurfaceView(reactContext);
         //  videoView.setZOrderMediaOverlay(true);
         videoView.setScalingType(RendererCommon.ScalingType.SCALE_ASPECT_FILL);
 
