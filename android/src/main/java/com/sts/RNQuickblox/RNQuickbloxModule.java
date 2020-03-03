@@ -254,10 +254,14 @@ public class RNQuickbloxModule extends ReactContextBaseJavaModule {
 
     @ReactMethod
     public void rejectCall() {
-        Map<String, String> userInfo = new HashMap<>();
-        userInfo.put("key", "value");
-        QuickbloxHandler.getInstance().getSession().rejectCall(userInfo);
-        QuickbloxHandler.getInstance().setSession(null);
+       try{
+           Map<String, String> userInfo = new HashMap<>();
+           userInfo.put("key", "value");
+           QuickbloxHandler.getInstance().getSession().rejectCall(userInfo);
+           QuickbloxHandler.getInstance().setSession(null);
+       }catch (Exception e){
+           Log.d(TAG, "rejectCall: "+ e.getMessage());
+       }
     }
 
     public void receiveCallSession(QBRTCSession session, Map<String, String> userInfo) {
