@@ -270,6 +270,7 @@ public class RNQuickbloxModule extends ReactContextBaseJavaModule {
         params.putString("callRequestId", userInfo.get("callRequestId"));
         params.putString("realName", userInfo.get("realName"));
         params.putString("avatar", userInfo.get("avatar"));
+        params.putString("sessionId", session.getSessionID());
         reactApplicationContext.getJSModule(DeviceEventManagerModule.RCTDeviceEventEmitter.class).emit(DID_RECEIVE_CALL_SESSION, params);
     }
 
